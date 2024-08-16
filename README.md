@@ -36,11 +36,11 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-### Status
+### :basecampy: Status
 ![evertonjohnny´s GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonjohnny&hide=contribs,prs&show_icons=true&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evertonjohnny&theme=dark)
 
 ---
-### Minhas redes
+### 🔍 Minhas redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonjohnny/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]()
