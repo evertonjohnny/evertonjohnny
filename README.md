@@ -38,8 +38,7 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 ---
 ### Status
 ![evertonjohnny´s GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonjohnny&hide=contribs,prs&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjohnny&hide_progress=false&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evertonjohnny&theme=dark)
 
 <div>  
   <a href="https://www.linkedin.com/in/evertonjohnny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
