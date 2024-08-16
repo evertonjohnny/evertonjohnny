@@ -6,7 +6,7 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 - Bacharelado em Ciências da Computação
 - Técnico em Processamento de Dados
 
-### 💽 O que estou fazendo agora?
+### 🥇 O que estou fazendo agora?
 - 💻 I’m currently working on C#/NET CORE and Angular projects.
 - 🔥 I´m studying Bitcoin
 - 💬 I was training Aikido...
@@ -30,7 +30,7 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 👨‍🏫 Tecnologias que trabalhei no passado
+### 📓 Tecnologias que trabalhei no passado
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![Sybase](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -45,12 +45,3 @@ Meu nome é Everton Johnny e sou analista de sistemas.
   <a href = "mailto:evertonprogramador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC-cJQRI--x5fW_2NCafiFCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
-
-<div>
-  <a href="https://github.com/evertonjohnny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonjohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjohnny&hide=prs,issues,contribs&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-  
