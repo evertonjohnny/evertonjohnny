@@ -12,7 +12,7 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 - 💬 I was training Aikido...
 
 ### ⭐ Tecnologias que estou trabalhando atualmente
-![C# NET CORE](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C# NET CORE](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
