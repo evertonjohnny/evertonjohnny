@@ -35,7 +35,12 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 ![Sybase](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-  
+---
+### Status
+![evertonjohnny´s GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonjohnny&hide=contribs,prs&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjohnny&hide_progress=false&theme=dark)
+
 <div>  
   <a href="https://www.linkedin.com/in/evertonjohnny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:evertonprogramador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -45,7 +50,7 @@ Meu nome é Everton Johnny e sou analista de sistemas.
 <div>
   <a href="https://github.com/evertonjohnny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonjohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjohnny&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjohnny&hide=prs,issues,contribs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
